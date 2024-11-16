@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently learning Basic Scripting
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me ...
+- 📫 How to reach me "santosh.poojari@hotmail.co.in"
 
 <!---
 iSantp/iSantp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
